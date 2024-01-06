@@ -34,8 +34,9 @@ const num = numero => (numero > 0 ? "Positivo" : "Neutro")
 
 const numRandom = numero => Math.random(numero)
 
-<<<<<<< HEAD
+
+
+
 btnAciona.addEventListener("click", num)
-=======
 btnAciona.addEventListener("click", alertaDF)
->>>>>>> cdb6e3c662178a873d70efd81728d855fa325b57
+
