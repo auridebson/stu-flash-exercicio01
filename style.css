@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.btnAciona {
+    background-color: #c2c0c0;
+    width: 150px; 
+    height: 35px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 6px;
+    border: none;
+}
+
+.texto-resultado {
+    width: 150px;
+    height: 20px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 6px;
+}
